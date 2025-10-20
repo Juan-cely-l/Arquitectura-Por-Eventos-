@@ -1,0 +1,6 @@
+co\edu\escuelaing\arquitecturaeventos\receiver\Receiver.class
+co\edu\escuelaing\arquitecturaeventos\connection\RedisListenerContainer.class
+co\edu\escuelaing\arquitecturaeventos\producer\Producer.class
+co\edu\escuelaing\arquitecturaeventos\connection\RedisTemplateService.class
+co\edu\escuelaing\arquitecturaeventos\ArquitecturaPorEventosApplication.class
+co\edu\escuelaing\arquitecturaeventos\connection\RedisConnectionConfig.class
